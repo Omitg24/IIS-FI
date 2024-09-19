@@ -1,0 +1,16 @@
+X=3
+y=2
+lista=[1,2,3,4]
+a=0
+if x<3:
+return Hola
+
+for i in range(len(lista):
+if lista[i]==2:
+return amigo
+elif lista[i]==4:
+return adios
+
+while a<X:
+return Piton
+a=a+1
